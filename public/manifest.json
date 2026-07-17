@@ -3,7 +3,10 @@
   "short_name": "Rizz AI",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#180D22",
-  "theme_color": "#180D22",
-  "icons": []
+  "background_color": "#3D0819",
+  "theme_color": "#3D0819",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
 }
