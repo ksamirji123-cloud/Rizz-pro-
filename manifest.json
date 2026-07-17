@@ -1,0 +1,9 @@
+{
+  "name": "Rizz AI",
+  "short_name": "Rizz AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#180D22",
+  "theme_color": "#180D22",
+  "icons": []
+}
